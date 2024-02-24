@@ -14,6 +14,12 @@ Suppression is applied to protect the disclosure of personal information or char
 This source data describes the data included in the A-level and other 16 to 18 performances from 2022/23.
 
 
+## Tools Used:
+* Azure Data Studio
+* MSSQL
+* PowerBI
+
+
 ## Methodology:
 The OFSTED ratings for each school were converted to the numerical values as my OFSTED index.
 "Outstanding" = 100
