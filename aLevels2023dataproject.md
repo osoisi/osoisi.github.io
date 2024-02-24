@@ -21,10 +21,10 @@ The OFSTED ratings for each school were converted to the numerical values as my 
 "Requires improvement" = 50
 "Inadequate"= 30
 Points were deducted for years since the last OFSTED visit was conducted. This means that a school with an OFSTED rating of outstanding but was last visited ten years ago will lose points for that. I wrote the following DAX to create values to divide the OFSTED index and create the OFSTED Score (converted to a percentage).
-	IF(yearssince >= 1 && yearssince <=2,1,
+```	IF(yearssince >= 1 && yearssince <=2,1,
             IF(yearssince>=3 && yearssince<=5,3,
             IF(yearssince>5,5)))
-
+```
 Since my son thought that Russell Group Institution and Oxbridge (Oxford and Cambridge) were a big deal, I created a bias by increasing the weighting of Russel Group Institutions by a multiple of 1.2 and Oxbridge by 1.5. 
 
 
