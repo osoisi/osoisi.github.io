@@ -1,4 +1,5 @@
 # WELCOME
 
-### Data Analyts Survey Project
-[Data Survey Project 2023](./dataindustryproject2023.md)
+### My Project Pages
+1. Data Analyts Survey Project [Link Here](./dataindustryproject2023.md)
+
