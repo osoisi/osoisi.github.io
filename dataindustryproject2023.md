@@ -30,4 +30,4 @@ Source file can be downloaded from https://github.com/AlexTheAnalyst/Power-BI/bl
 5. The top priorities for the next role among the surveyed individuals are better salary (47.14%), remote work (20.16%), good work/life balance (18.57%), good culture (8.57%), and other (5.56%). ​
 
 ##Project Dashboard
-<iframe title="Data Industry Survey" width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOWJiMjU2MTEtNmUyYy00ZWFlLTk4ZmMtY2JmMDEzNzM1MWY0IiwidCI6IjliNGE1Yjc1LTE5N2ItNGNkMS1hNTQwLTg5YWRjMTQxYWYxMCJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Data Industry Survey" width="600" height="400" src="https://app.powerbi.com/view?r=eyJrIjoiOWJiMjU2MTEtNmUyYy00ZWFlLTk4ZmMtY2JmMDEzNzM1MWY0IiwidCI6IjliNGE1Yjc1LTE5N2ItNGNkMS1hNTQwLTg5YWRjMTQxYWYxMCJ9" frameborder="0" allowFullScreen="true"></iframe>
