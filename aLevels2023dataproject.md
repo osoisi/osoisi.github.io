@@ -1,8 +1,7 @@
 # A-Levels Research Project for the United Kingdom.
-
 This data project provides information on A-level enrolment percentages per region and subject in schools in England for the year 2022-2023.
 
-I started this project to support my son's choice of where to study for his A-levels. We had two options: use data to support our decision or ask friends. It turned out to be more complicated than initially thought but highly rewarding. 
+I started this project to support a relative's choice of where to study for his A-levels. We had two options: use data to support our decision or ask friends. It turned out to be more complicated than initially thought but highly rewarding. 
 
 Since he is a science student, I wanted to see which schools had the highest percentage of key stage 4 (KS4) students progressing to science-focused studies in A-Levels (KS5). Those schools provided more encouragement in the sciences and maths, hence the numbers. I also wanted to see which schools produce students ending up in Russel group schools or Oxbridge (Oxford or Cambridge). Could we marry this data to see schools that, on average, deliver on these and more? 
 
@@ -12,6 +11,10 @@ https://explore-education-statistics.service.gov.uk/
 The information is based on data collected via awarding organizations, the school census, and the Individualized Learner Record.
 Suppression is applied to protect the disclosure of personal information or characteristics.
 This source data describes the data included in the A-level and other 16 to 18 performances from 2022/23.
+
+
+## Repository:
+[Link Here](https://github.com/osoisi/a_level_schools_compare)
 
 
 ## Tools Used:
@@ -31,14 +34,17 @@ Points were deducted for years since the last OFSTED visit was conducted. This m
             IF(yearssince>=3 && yearssince<=5,3,
             IF(yearssince>5,5)))
 ```
-Since my son thought that Russell Group Institution and Oxbridge (Oxford and Cambridge) were a big deal, I created a bias by increasing the weighting of Russel Group Institutions by a multiple of 1.2 and Oxbridge by 1.5. 
+Since he thought that Russell Group Institution and Oxbridge (Oxford and Cambridge) were a big deal, I created a bias by increasing the weighting of Russel Group Institutions by a multiple of 1.2 and Oxbridge by 1.5 (based on his order of preference). 
 
 
 ## PowerBI Dashboard
 <iframe title="A_Levels_Project_2024" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2I0ZTYyOTUtY2NmYi00ZDE2LThiMDktY2E5OTRhMjg1MDBkIiwidCI6IjliNGE1Yjc1LTE5N2ItNGNkMS1hNTQwLTg5YWRjMTQxYWYxMCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
+.
+.
+
 ## Key Findings for the North East:
-At the time of the project, I was in the Northeast and wanted to know the top schools in the region. 
+At the time of the project, he was in the Northeast and wanted to know the top schools in the region. 
 
 
 ### The top 5 schools in the North East based on percentage of students progressing to Oxford or Cambridge are: 

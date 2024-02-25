@@ -1,7 +1,6 @@
 # Project Details
 
 ## Summary
-
 The Project is based on a data industry survey report providing information on various aspects of data industry professionals' life including: 
 * Demographics 
 * Preferred programming languages 
@@ -10,19 +9,22 @@ The Project is based on a data industry survey report providing information on v
 * Industry distribution 
 * Priorities for the next role
 
-Tools Used:
+
+## Tools Used:
 * SQL for Data Cleaning and Wrangling
 * PowerBI for Business Intelligence and Presentation
 
 
-## Source
+## Repository:
+[Link Here](https://github.com/osoisi/survey_project_data_industry)
 
+
+## Source
 Survey data provided by Alex Freberg (AlexTheAnalyst)
 Source file can be downloaded from https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx
 
 
 ## Top 5 Most Important Points
-
 1. The survey was conducted in 2023 and involved 630 people. ​
 2. The average age of the people surveyed is 29.87. ​
 3. The preferred programming languages or tools among the surveyed individuals are Python, R, SQL, C/C++, Java, and PowerBI. ​

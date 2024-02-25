@@ -13,9 +13,15 @@ This project provides information on bank closures and acquisitions from 2000 to
 * PowerBI
 
 
+## Repository
+[Link Here](https://github.com/osoisi/US_failed_banks_project)
+
+
 ## PowerBI Dashboard:
 <iframe title="Failed_banks_PowerBI" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZjcyYjY5YWItNzU1Yi00Zjc2LTlkYTEtMDdhODkxNTc0NTVlIiwidCI6IjliNGE1Yjc1LTE5N2ItNGNkMS1hNTQwLTg5YWRjMTQxYWYxMCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
+.
+.
 
 ## Key Findings
 1. The year 2005 had the highest Bank Credit % Change at 10.20, while the year 2009 had the lowest Bank Credit % Change at -5.90. ​
