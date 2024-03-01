@@ -1,7 +1,7 @@
 # Project Details
 
 ## Summary
-The Project is based on a data industry survey report providing information on various aspects of data industry professionals' life including: 
+The Project is based on a data industry survey report providing information on various aspects of data industry professionals' lives including: 
 * Demographics 
 * Preferred programming languages 
 * Individual salaries 
