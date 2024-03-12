@@ -12,6 +12,8 @@ The information is based on data collected via awarding organizations, the schoo
 Suppression is applied to protect the disclosure of personal information or characteristics.
 This source data describes the data included in the A-level and other 16 to 18 performances from 2022/23.
 
+Note: Many schools were ommitted from the ministry of education's database. This project focuses on the schools reported on. 
+
 
 ## Repository:
 [Link Here](https://github.com/osoisi/a_level_schools_compare)
