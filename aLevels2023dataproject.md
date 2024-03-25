@@ -10,7 +10,7 @@ Ofqual A-Level school data: https://analytics.ofqual.gov.uk/apps/Alevel/CentreTy
 Postcode Data: https://www.data.gov.uk/dataset/7ec10db7-c8f4-4a40-8d82-8921935b4865/national-statistics-postcode-lookup-uk 
 
 ## Version 2 Dashboard is below:
-<iframe title="A_Levels_Project_2024 Improved" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=8601c085-755e-4a2b-b96f-0ccae092f4fe&autoAuth=true&ctid=9b4a5b75-197b-4cd1-a540-89adc141af10" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="A_Levels_Project_2024 Improved" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiM2VjZjdkMGMtZTVkYy00MTQ1LWI4OWQtNWJlNGM1NWMwMzNhIiwidCI6IjliNGE1Yjc1LTE5N2ItNGNkMS1hNTQwLTg5YWRjMTQxYWYxMCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 # Version 1
 This data project provides information on A-level enrolment percentages per region and subject in schools in England for the year 2022-2023.
