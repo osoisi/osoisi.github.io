@@ -1,5 +1,5 @@
-# Project Summary
-This project provides information on bank closures and acquisitions from 2000 to 2020, along with economic data trends.
+# US Bank Closure Research Project 2000-2020.
+This project analyses bank closures and acquisitions from 2000 to 2020 and economic data trends. The research focuses on finding if there was any correlation between Bank Failures, Bank Credit, Economic Inflation, and Personal Loans in the United States with those years. 
 
 
  ## Data Sources:
